@@ -1,0 +1,108 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  background: rgba(0, 0, 0, 0);
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 56px;
+  top: 46px;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 43px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 796px;
+  top: 38px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: relative;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: relative;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: relative;
+}
+.bmgt-407-information-system-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 44px;
+  top: 197px;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 44px;
+  top: 330px;
+}
+.professor-paul-t-shapiro {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 44px;
+  top: 406px;
+}
+.teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 44px;
+  top: 482px;
+}
+.semester-details-spring-2025 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 44px;
+  top: 558px;
+}
